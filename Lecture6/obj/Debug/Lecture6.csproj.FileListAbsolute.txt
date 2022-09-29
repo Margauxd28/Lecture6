@@ -1,0 +1,7 @@
+C:\Users\Margaux\Documents\ESILV\A3\C#\Lecture6\Lecture6\obj\Debug\Lecture6.csproj.AssemblyReference.cache
+C:\Users\Margaux\Documents\ESILV\A3\C#\Lecture6\Lecture6\obj\Debug\Lecture6.csproj.CoreCompileInputs.cache
+C:\Users\Margaux\Documents\ESILV\A3\C#\Lecture6\Lecture6\bin\Debug\Lecture6.exe.config
+C:\Users\Margaux\Documents\ESILV\A3\C#\Lecture6\Lecture6\bin\Debug\Lecture6.exe
+C:\Users\Margaux\Documents\ESILV\A3\C#\Lecture6\Lecture6\bin\Debug\Lecture6.pdb
+C:\Users\Margaux\Documents\ESILV\A3\C#\Lecture6\Lecture6\obj\Debug\Lecture6.exe
+C:\Users\Margaux\Documents\ESILV\A3\C#\Lecture6\Lecture6\obj\Debug\Lecture6.pdb
